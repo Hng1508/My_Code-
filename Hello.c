@@ -1,4 +1,3 @@
-/*#include <stdio.h> // Khai báo sử dụng thư viện */
 
 #include <stdio.h>>
 #include <stdlib.h> // cần cho system()
