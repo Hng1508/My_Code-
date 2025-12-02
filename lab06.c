@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>>>>>>
 #include <math.h>
 
 void inputArray(int x[10], int n){
@@ -103,3 +103,4 @@ int main(){
     printf("Tổng các phần tử chẵn là %d\n", elementEvenTotalArray(x, n));
     return 0;
 }
+
